@@ -101,13 +101,24 @@ void loop() {
     <li>🔧 Encourages <b>customization and creative expansion</b> for added functionality.</li>
 </ul>
 
-<hr>
-
 <h2>📽️ Project Demos</h2>
-<p>📺 Watch the robot in action! (Add YouTube link here)</p>
+
+<p>Here are some project snapshots:</p>
+
+<table align="center" border="0" cellpadding="10">
+    <tr>
+        <td align="center">
+            <img src="Bot_Moving.jpg" alt="Robot in Motion" width="300">
+            <p>📸 Robot navigating with Bluetooth commands</p>
+        </td>
+        <td align="center">
+            <img src="Bot_Circuit.jpg" alt="Robot Circuit Design" width="300">
+            <p>📸 Internal circuit and wiring setup</p>
+        </td>
+    </tr>
+</table>
 
 <hr>
-
 <h2>🔗 Get Involved & Build Your Own Bluetooth Navigator Bot!</h2>
 <p>🚀 <b>Clone the Repository & Start Building:</b></p>
 <pre>
