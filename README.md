@@ -112,7 +112,7 @@ void loop() {
             <p>📸 Robot navigating with Bluetooth commands</p>
         </td>
         <td align="center">
-            <img src="Bot_Circuit.jpg" alt="Robot Circuit Design" width="300">
+            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Bot-Diagram.png" alt="Robot Circuit Design" width="300">
             <p>📸 Internal circuit and wiring setup</p>
         </td>
     </tr>
