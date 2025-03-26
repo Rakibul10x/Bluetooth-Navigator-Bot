@@ -108,7 +108,7 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="[Bot_Moving.jpg](https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Car.jpg)" alt="Robot in Motion" width="300">
+            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Car.jpg)" alt="Robot in Motion" width="300">
             <p>📸 Robot navigating with Bluetooth commands</p>
         </td>
         <td align="center">
