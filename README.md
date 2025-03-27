@@ -101,15 +101,15 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="Bot_Components.jpg" alt="Project Component List" width="300">
+            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Project%20Component%20List%20(2).png" alt="Project Component List" width="300">
             <p>📸 Project Component List</p>
         </td>
         <td align="center">
-            <img src="Bot_Wiring.jpg" alt="Wiring and Schematic Diagram" width="300">
+            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Bot-Diagram.png" alt="Wiring and Schematic Diagram" width="300">
             <p>📸 Wiring and Schematic Diagram</p>
         </td>
         <td align="center">
-            <img src="Bot_Testing.jpg" alt="Test and Performance Analysis" width="300">
+            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Car.jpg" alt="Test and Performance Analysis" width="300">
             <p>📸 Test and Performance Analysis</p>
         </td>
     </tr>
