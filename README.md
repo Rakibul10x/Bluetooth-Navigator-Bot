@@ -103,6 +103,8 @@ void loop() {
 
 <hr>
 
+<hr>
+
 <h2>📽️ Project Demos</h2>
 
 <p>Here are some project snapshots:</p>
@@ -110,21 +112,24 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Project_Component_List.png" alt="Project Component List" width="300">
-            <p>📸 Project Component List</p>
+            <img src="Bot_Components.jpg" alt="Project Component List" width="300">
+            <p>🧩 Project Component List</p>
         </td>
         <td align="center">
-            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Wiring_and_Schematic_Diagram.png" alt="Wiring and Schematic Diagram" width="300">
-            <p>📸 Wiring and Schematic Diagram</p>
+            <img src="Bot_Wiring.jpg" alt="Wiring and Schematic Diagram" width="300">
+            <p>🔌 Wiring and Schematic Diagram</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
-            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Ultrasonic_Sensor_Test.png" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
-            <p>📸 Ultrasonic Distance Sensor Test and Performance Analysis</p>
+            <img src="Bot_Testing.jpg" alt="Test and Performance Analysis" width="300">
+            <p>📊 Test and Performance Analysis</p>
         </td>
     </tr>
 </table>
 
 <hr>
+
 
 <h2>🔗 Get Involved & Build Your Own Bluetooth Navigator Bot!</h2>
 <p>🚀 <b>Clone the Repository & Start Building:</b></p>
