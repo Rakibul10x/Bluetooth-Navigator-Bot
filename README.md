@@ -94,17 +94,6 @@ void loop() {
 
 <hr>
 
-<h2>🏆 Project Outcomes</h2>
-<ul>
-    <li>🤖 Built a fully functional <b>Bluetooth-controlled robot</b> capable of precise navigation.</li>
-    <li>🎯 Developed an <b>interactive learning platform</b> for programming and robotics.</li>
-    <li>🔧 Encourages <b>customization and creative expansion</b> for added functionality.</li>
-</ul>
-
-<hr>
-
-<hr>
-
 <h2>📽️ Project Demos</h2>
 
 <p>Here are some project snapshots:</p>
@@ -113,22 +102,21 @@ void loop() {
     <tr>
         <td align="center">
             <img src="Bot_Components.jpg" alt="Project Component List" width="300">
-            <p>🧩 Project Component List</p>
+            <p>📸 Project Component List</p>
         </td>
         <td align="center">
             <img src="Bot_Wiring.jpg" alt="Wiring and Schematic Diagram" width="300">
-            <p>🔌 Wiring and Schematic Diagram</p>
+            <p>📸 Wiring and Schematic Diagram</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="Bot_Testing.jpg" alt="Test and Performance Analysis" width="300">
-            <p>📊 Test and Performance Analysis</p>
+            <p>📸 Test and Performance Analysis</p>
         </td>
     </tr>
 </table>
 
 <hr>
+
 
 
 <h2>🔗 Get Involved & Build Your Own Bluetooth Navigator Bot!</h2>
