@@ -101,6 +101,8 @@ void loop() {
     <li>🔧 Encourages <b>customization and creative expansion</b> for added functionality.</li>
 </ul>
 
+<hr>
+
 <h2>📽️ Project Demos</h2>
 
 <p>Here are some project snapshots:</p>
@@ -108,17 +110,22 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Car.jpg" alt="Robot in Motion" width="300">
-            <p>📸 Robot navigating with Bluetooth commands</p>
+            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Project_Component_List.png" alt="Project Component List" width="300">
+            <p>📸 Project Component List</p>
         </td>
         <td align="center">
-            <img src="https://github.com/Rakibul10x/Bluetooth-Navigator-Bot/blob/main/Bluetooth%20Navigator%20Bot-Diagram.png" alt="Robot Circuit Design" width="300">
-            <p>📸 Internal circuit and wiring setup</p>
+            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Wiring_and_Schematic_Diagram.png" alt="Wiring and Schematic Diagram" width="300">
+            <p>📸 Wiring and Schematic Diagram</p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/YourUsername/Bluetooth-Navigator-Bot/blob/main/Ultrasonic_Sensor_Test.png" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
+            <p>📸 Ultrasonic Distance Sensor Test and Performance Analysis</p>
         </td>
     </tr>
 </table>
 
 <hr>
+
 <h2>🔗 Get Involved & Build Your Own Bluetooth Navigator Bot!</h2>
 <p>🚀 <b>Clone the Repository & Start Building:</b></p>
 <pre>
